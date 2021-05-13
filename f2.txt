@@ -1,0 +1,4 @@
+hiiiiiizz
+:wq
+:q!
+  
