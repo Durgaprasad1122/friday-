@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h
 
 hii and come to my placeiii
@@ -20,3 +21,6 @@ hiiasry
 :q
 :wq
   
+=======
+HYYY 
+>>>>>>> 2309735503699914b6bede27e6a3eefeab293a6e
